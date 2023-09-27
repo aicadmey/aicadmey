@@ -1,7 +1,5 @@
 # AI Cadmey
 
-![AI Cadmey Logo](https://drive.google.com/file/d/1If9PxIrNVQ1v42lk0EIDwlxWY72854L0/view?usp=sharing)
-
 ## About AI Cadmey
 
 Welcome to the AI Cadmey GitHub Profile!
